@@ -1,4 +1,4 @@
 +++
 title = "Example datasets"
-description = "Tiny AlpiLinK, DoReCo, and ALLSSTAR samples for plew-map."
+description = "Various datasets curated for demonstrating maplew's applications, such as tiny AlpiLinK, DoReCo, and ALLSSTAR samples."
 +++
